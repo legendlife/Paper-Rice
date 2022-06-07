@@ -11,5 +11,4 @@
 ![pen](https://user-images.githubusercontent.com/80240062/172292507-3846c071-2146-488f-9eb6-6ed4b6921ec7.jpg)
 
 ### Folders:
-
-<img src="https://i.ibb.co/Y0DyvBz/folder-1.jpg" width=500 height=500 placeholder="home"> <img src="https://i.ibb.co/yRVGSR8/folder-2.jpg" width=500 height=600 placeholder="homework">
+<img src="https://i.ibb.co/Y0DyvBz/folder-1.jpg" width=500 height=500 placeholder="home"> <img src="https://i.ibb.co/yRVGSR8/folder-2.jpg" width=400 height=600 placeholder="homework">
