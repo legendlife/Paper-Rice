@@ -8,4 +8,4 @@
 ### Files: 
 ![paper](https://user-images.githubusercontent.com/80240062/172292325-a0d9ebdd-eff8-4691-88fd-e7a02bfeaaf9.jpg)
 
-![pen](https://user-images.githubusercontent.com/80240062/172292404-0c118263-f089-44ac-b80b-677de95e1eba.jpg)
+![pen](https://user-images.githubusercontent.com/80240062/172292507-3846c071-2146-488f-9eb6-6ed4b6921ec7.jpg)
